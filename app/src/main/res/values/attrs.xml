@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Dashboard">
+        <attr name="arcRadius" format="float" />
+        <attr name="scaleRadius" format="float" />
+        <attr name="arcLineWidth" format="float" />
+        <attr name="scaleLineWidth" format="float" />
+        <attr name="targetScore" format="integer" />
+        <attr name="arcGradientStart" format="color" />
+        <attr name="arcGradientMiddle" format="color" />
+        <attr name="arcGradientEnd" format="color" />
+        <attr name="unreachedColor" format="color" />
+        <attr name="scaleGradientStart" format="color" />
+        <attr name="scaleGradientMiddle" format="color" />
+        <attr name="scaleGradientEnd" format="color" />
+        <attr name="scoreTextSize" format="dimension" />
+    </declare-styleable>
+</resources>
